@@ -14,11 +14,40 @@ public class MainActivity extends AppCompatActivity {
         //new branch h ye
     }
 
+    public void funMainBranch()
+    {
+        //this is new branch function
+    }
+    public void fun_firstbranch111()
+    {
+        //this is new branch function
+    }
 
 
+    public void funMainTest() {
+        //this is new branch function 222222222‘
+    }
+    public void fun_first44444() {
+        //this is new branch function‘‘‘‘]]
+    }
+    @Override
+    protected void onRestart() {
+        super.onRestart();
+    }
 
 
+    @Override
+    protected void onResume() {
+        super.onResume();
+    }
 
+    @Override
+    protected void onDestroy() {
+        super.onDestroy();
+    }
 
-
+    @Override
+    protected void onPause() {
+        super.onPause();
+    }
 }
