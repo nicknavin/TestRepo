@@ -25,10 +25,6 @@ public class MainActivity extends AppCompatActivity {
         //this is new branch function 222222222
     }
 
-    public void funThirdbranch_fun()
-    {
-        //this is new funThirdbranch_fun function 555555555
-    }
 
 
     public void funTestbranch()
