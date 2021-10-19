@@ -10,27 +10,12 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        //navin nimadegit
-        //new branch h ye
+
     }
 
-    public void fun_firstbranch111()
-    {
-        //this is new branch function
-    }
+public void init()
+{
 
-    public void fun_first44444() {
-        //this is new branch function
-    }
-    @Override
-    protected void onRestart() {
-        super.onRestart();
-    }
-
-    @Override
-    protected void onResume() {
-        super.onResume();
-    }
 }
 
 }
