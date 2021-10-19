@@ -13,4 +13,11 @@ public class MainActivity extends AppCompatActivity {
         //navin nimadegit
         //new branch h ye
     }
+
+    public void funMainBranch()
+    {
+        //this is new branch function
+    }
+
+
 }
