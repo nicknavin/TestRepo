@@ -22,6 +22,15 @@ public class MainActivity extends AppCompatActivity {
     public void fun_first44444()
     {
         //this is new branch function
+
+    @Override
+    protected void onRestart() {
+        super.onRestart();
+    }
+
+    @Override
+    protected void onResume() {
+        super.onResume();
     }
 
 
