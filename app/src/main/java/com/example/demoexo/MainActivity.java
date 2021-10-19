@@ -14,21 +14,6 @@ public class MainActivity extends AppCompatActivity {
         //new branch h ye
     }
 
-    public void funMainBranch()
-    {
-        //this is new branch function
-    }
-
-
-    public void funMainTest()
-    {
-        //this is new branch function 222222222
-    }
-
-    public void funTestbranch()
-    {
-        //this is new Testbranch function 3434344
-    }
 
 
     @Override
