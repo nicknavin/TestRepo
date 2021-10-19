@@ -14,15 +14,21 @@ public class MainActivity extends AppCompatActivity {
         //new branch h ye
     }
 
-
-
-    @Override
-    protected void onRestart() {
-        super.onRestart();
+    public void funMainBranch()
+    {
+        //this is new branch function
     }
 
-    @Override
-    protected void onResume() {
-        super.onResume();
+
+    public void funMainTest()
+    {
+        //this is new branch function 222222222
     }
+
+
+
+
+
+
+
 }
