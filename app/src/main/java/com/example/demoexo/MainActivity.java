@@ -19,10 +19,9 @@ public class MainActivity extends AppCompatActivity {
         //this is new branch function
     }
 
-    public void fun_first44444()
-    {
+    public void fun_first44444() {
         //this is new branch function
-
+    }
     @Override
     protected void onRestart() {
         super.onRestart();
@@ -32,6 +31,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onResume() {
         super.onResume();
     }
-
+}
 
 }
